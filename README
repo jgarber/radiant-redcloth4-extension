@@ -1,0 +1,3 @@
+= Redcloth4
+
+Enable RedCloth 4.0.3 or greater from RubyGems.  RedCloth 3.0.4 comes packaged with Radiant, so we have to pull some tricks to get RedCloth loaded from gems.
