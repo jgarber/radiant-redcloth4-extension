@@ -3,7 +3,7 @@
 
 class Redcloth4Extension < Radiant::Extension
   version "1.0"
-  description "Enables RedCloth 4 even though RedCloth 3 is bundled with Radiant"
+  description "Uses RedCloth 4 for textile_filter instead of RedCloth 3, which is bundled with Radiant."
   
   def activate
     # Get the latest version of RedCloth
